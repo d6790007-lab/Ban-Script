@@ -16,7 +16,6 @@ The project is intended for practice, experimentation, and educational use only.
 ## Installation
 1. Download the script from `bin/Banning-Script.exe`.  
 2. Run on Windows.  
-3. Follow any additional instructions in the README for safe experimentation.  
 
 ## How to Use
 1. Launch the executable.  
