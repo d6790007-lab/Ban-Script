@@ -26,7 +26,6 @@ This project is intended strictly for practice, experimentation, and learning. I
 - Understand automation in Roblox  
 - Practice script execution and file management  
 - Learn how to structure small‑scale software projects  
-- Get familiar with GitHub repository management
 
 ## License
 Apache 2.0
