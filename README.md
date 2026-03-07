@@ -1,16 +1,16 @@
-# Roblox Banning Script Tool
+# Ban-Script
 
 **Disclaimer:** This tool is for educational use only. The author will not be held responsible for any misuse. Always use responsibly and ethically.
 
 ## About
-This repository contains a Roblox moderation script designed for educational purposes. The tool demonstrates how automation scripts can be structured, executed, and maintained in a small-scale moderation environment. It is a great starting point for learning programming, scripting, and bot development in Roblox.
+Ban-Script is a Roblox moderation tool designed for educational purposes. This project demonstrates how automation scripts can be structured and executed in a safe environment. It's a great starting point for learning programming, scripting, and basic bot development on Roblox.
 
-The project is intended for practice, experimentation, and educational use only. It is **not** meant to be used maliciously or against Roblox's terms of service.
+This project is intended strictly for practice, experimentation, and learning. It should **never** be used maliciously or against Roblox's terms of service.
 
 ## Features
 - Simple and easy-to-use banning script for Roblox environments  
-- Windows executable for immediate use  
-- Structured and well-documented code for learning purposes  
+- Windows executable ready to run  
+- Well-documented and structured for learning purposes  
 - Licensed under Apache 2.0 for educational distribution  
 
 ## Installation
@@ -19,15 +19,14 @@ The project is intended for practice, experimentation, and educational use only.
 
 ## How to Use
 1. Launch the executable.  
-2. Input the necessary parameters as required by your test environment.  
-3. Observe script functionality in a safe and controlled environment.  
+2. Input necessary parameters in your testing environment.  
+3. Observe the script functionality safely.  
 
 ## Learning Opportunities
-This project is ideal for:  
-- Understanding automation in Roblox  
-- Practicing script execution and file management  
-- Exploring how to structure small-scale software projects  
-- Learning GitHub repository management  
+- Understand automation in Roblox  
+- Practice script execution and file management  
+- Learn how to structure small-scale software projects  
+- Get familiar with GitHub repository management  
 
 ## License
 Apache 2.0
