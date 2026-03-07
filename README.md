@@ -1,5 +1,5 @@
 **Roblox - Banning script tool**
-**-----------------------------------------**
+
 
 
 Disclaimer:
