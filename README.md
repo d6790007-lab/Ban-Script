@@ -2,6 +2,7 @@
 
 **Disclaimer:** This tool is for educational use only. The author will not be held responsible for any misuse. Always use responsibly and ethically.
 
+
 ## About
 Roblox‑Banning‑Tool is a Roblox moderation script designed for educational purposes. This project demonstrates how automation scripts can be structured and executed in a safe environment. It's ideal for learning programming, scripting, and basic bot development on Roblox.
 
