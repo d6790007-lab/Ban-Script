@@ -14,7 +14,7 @@ The project is intended for practice, experimentation, and educational use only.
 - Licensed under Apache 2.0 for educational distribution  
 
 ## Installation
-1. Download the script from `bin/Banning-Script.exe`.  
+1. Download the script from `Banning-Script.exe`.  
 2. Run on Windows.  
 
 ## How to Use
