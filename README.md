@@ -6,7 +6,8 @@
 Practice scripts and experiments for learning automation and moderation tools on Roblox.
 
 ## Installation
-3. Run `Banning-Script.exe` (Windows only).
+1. Download the script from `bin/Banning-Script.exe`.
+2. Run on Windows.
 
 ## License
 Apache 2.0
