@@ -1,5 +1,5 @@
-''' # 🌐 Project: Omni-Global (OG) Client-Side Injector v11.4
-
+**🌐 Project: Omni-Global (OG) Client-Side Injector v11.4
+**
 Omni-Global is a universal runtime environment designed for educational memory-mapping. It functions as a Layer 7 Interceptor, allowing users to force Physical Interaction Flags on any target entity within a shared session.
 
 By mirroring local skeletal mesh animations through a Virtual Input Buffer, any move you perform (jumps, skill moves, or specific physics interactions) is calculated as a server-side action for the victim.
