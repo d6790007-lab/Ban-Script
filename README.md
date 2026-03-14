@@ -1,4 +1,5 @@
- # 🌐 Project: Omni-Global (OG) Client-Side Injector v11.4
+![The Injector](https://raw.githubusercontent.com/d6790007-lab/Ban-Script/main/hhh44h.jpg)
+ *# 🌐 Project: Omni-Global (OG) Client-Side Injector v11.4
 
 **Omni-Global** is a universal runtime environment designed for educational memory-mapping. It functions as a `Layer 7 Interceptor`, allowing users to force `Physical Interaction Flags` on any target entity within a shared session.
 
@@ -34,5 +35,5 @@ If this project assisted your research, consider supporting further development.
 **BTC Address:** `bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh`
 
 --- 
-![The Injector](https://raw.githubusercontent.com/d6790007-lab/Ban-Script/main/hhh44h.jpg)
+
 
