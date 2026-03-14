@@ -14,7 +14,7 @@ By mirroring local skeletal mesh animations through a `Virtual Input Buffer`, an
 The injector to trick the server into thinking the target is performing the action. 
 
 * **Damage Registration:** You can land hits on yourself, and the server will register the damage to the target character due to the `Remote Client-Side` hook.
-* **Remote Usage Injector:** Any skill move you perform—even complex frames—will spawn a `Skeletal Clone` of the target. You can land damage to the fake clone, and it will sync back to the target's HP.
+* **Remote Usage Injector:** Any skill move you perform—even complex frames—will spawn a `Dummy` of the target. You can land damage to the fake clone, and it will sync back to the target's HP.
 * **Identity Spoofing:** Includes support for `Global-Chat` spoofing, allowing you to send messages as the target player.
 
 ---
