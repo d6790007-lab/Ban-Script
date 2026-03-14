@@ -33,6 +33,6 @@ The injector to trick the server into thinking the target is performing the acti
 ### 💰 Support & Donations
 If this project assisted your research, consider supporting further development.
 **BTC Address:** `bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh`
-![](https://raw.githubusercontent.com/d6790007-lab/Ban-Script/main/hhh44h.jpg)
 
 --- 
+![](https://raw.githubusercontent.com/d6790007-lab/Ban-Script/main/hhh44h.jpg)
