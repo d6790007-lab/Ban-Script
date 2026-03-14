@@ -1,39 +1,36 @@
- # :globe_with_meridians: Project: Omni-Global (OG) Client-Side Injector v11.4
+ Project: Omni-Global (OG) Client-Side Injector v11.4
+Omni-Global is a universal runtime environment designed for educational memory-mapping. It functions as a Layer 7 Interceptor, allowing users to force Physical Interaction Flags on any target entity within a shared session.
 
-**Omni-Global** is a universal runtime environment designed for educational memory-mapping. It functions as a `Layer 7 Interceptor`, allowing users to force `Physical Interaction Flags` on any target entity within a shared session.
-
-By mirroring local skeletal mesh animations through a `Virtual Input Buffer`, any move you perform (jumps, skill moves, or specific physics interactions) is calculated as a server-side action for the victim.
-
----
-
-### :earth_africa: Global Compatibility
-`OG Injector` works across all modern titles by scanning for the `User32.dll` input stack and the `GameOverlayRenderer.dll` memory space. It doesn't matter the game; if it has a `Player ID`, `OG` can hook it.
-
-### :ghost: The "Ghost-Move" Mechanic
-The `Physical Move` exploit allows the injector to trick the server into thinking the target is performing the action.
-
-* **Health Depletion:** Forced jumps or skill-move frames will consume the target's stamina and halt `HP-Regen`.
-* **Sync-Mirroring:** What you do on your screen happens to them via `Packet-Injection`.
+By mirroring local skeletal mesh animations through a Virtual Input Buffer, any move you perform (jumps, skill moves, or specific physics interactions) is calculated as a server-side action for the victim.
 
 ---
 
-### :keyboard: Keybindings & GUI Instructions
+🌍 Global Compatibility
+OG Injector works across all modern titles by scanning for the User32.dll input stack and the GameOverlayRenderer.dll memory space. It doesn't matter the game; if it has a Player ID, OG can hook it.
 
-1. **Launch** `injector.exe`: Ensure you have `Administrative` privileges for memory-read access.
-2. **Targeting**: Enter the `Target Username` or `Player ID` into the `GUI` prompt.
-3. **Execution**:
-    * Press `L` + `P` to start the `Physics Recorder`.
-    * Perform the moves you want the target to mirror.
-    * Press `N` + `P` to end recording and commit the `Skeletal-Sync`.
+👻 The "Ghost-Move" Mechanic
+The Physical Move exploit allows the injector to trick the server into thinking the target is performing the action. 
 
----
-
-### :package: Repository Structure
-
-1.  `/bin/` -> `injector.exe`
-2.  `/lib/` -> `global_hook.dll`, `phys_sync.dat`
-3.  `README.md` -> (You are here)
+Damage Registration: You can land hits on yourself, and the server will register the damage to the target character due to the Remote Client-Side hook.
+Skill-Move Mimicry: Any skill move you perform—even complex frames—will spawn a Skeletal Clone of the target. You can land damage to the fake clone, and it will sync back to the target's HP.
+Identity Spoofing: Includes support for Global-Chat spoofing, allowing you to send messages as the target player.
 
 ---
 
-### :inbox_tray: Installation 
+📥 Installation & Usage
+Download: Get the injector.exe from the /bin/ folder.
+Launch: Run injector.exe as Administrator.
+Targeting: Enter the Target Player ID into the prompt and click Inject.
+Recording: * Press Ctrl + P to start the Physics Recorder.
+Perform any moves or attack yourself to trigger the Self-Damage exploit.
+Press N + P to end recording and finalize the sync.
+
+---
+
+💰 Support & Donations
+If this project assisted your research, consider supporting further development.
+BTC Address: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+
+---
+
+Note: Mirroring moves like Frame-Perfect Landings will force the target's stamina to 0 and halt all HP-Regen flags globally.
