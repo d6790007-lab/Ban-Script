@@ -35,4 +35,4 @@ If this project assisted your research, consider supporting further development.
 **BTC Address:** `bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh`
 
 --- 
-![](https://raw.githubusercontent.com/d6790007-lab/Ban-Script/main/hhh44h.jpg)
+![](https://github.com/d6790007-lab/Ban-Script/blob/c4c5440750c4363529c3468436092e6035678cb0/hhh44h.jpg)
