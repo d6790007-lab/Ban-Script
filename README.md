@@ -1,31 +1,43 @@
-#  Roblox‑Banning‑Script
+🛠 Project: Omni-Global (OG) Client-Side Injector v11.4
 
-**Disclaimer:** This Script is for educational use only. The author will not be held responsible for any misuse. Always use responsibly and ethically.
+Omni-Global is a universal runtime environment designed for educational memory-mapping. It functions as a Layer 7 Interceptor, allowing users to force "Physical Interaction Flags" on any target entity within a shared session.
 
-## About
-Roblox‑Banning‑Script is a Roblox moderation script designed for educational purposes. This project demonstrates how automation scripts can be structured and executed in a safe environment. It's ideal for learning programming, scripting, and basic bot development on Roblox.
+By mirroring local skeletal mesh animations through a Virtual Input Buffer, any move you perform (jumps, skill moves, or specific physics interactions) is calculated as a server-side action for the victim.
+🌐 Global Compatibility
 
-This project is intended strictly for practice, experimentation, and learning. It should **never** be used maliciously or against Roblox's terms of service.
+OG Injector works across all modern titles by scanning for the User32.dll input stack and the GameOverlayRenderer.dll memory space. It doesn't matter the game; if it has a player ID, OG can hook it.
+🎮 The "Ghost-Move" Mechanic
 
-## Features
-- Simple and easy‑to‑use banning script for Roblox environments  
-- Windows executable ready to run  
-- Well‑documented and structured for learning purposes  
-- Licensed under Apache 2.0 for educational distribution  
+The "Physical Move" exploit allows the injector to trick the server into thinking the target is performing the action.
 
-## Installation
-1. Download the script from `Banning‑Script.exe` (in this repo).  
-2. Run on Windows.
+    Health Depletion: Forced jumps or skill-move frames will consume the target's stamina and halt health regeneration.
 
-## How to Use
-1. Launch the executable.  
-2. Input the necessary parameters in your testing environment.  
-3. Observe script functionality safely and responsibly.
+    Sync-Mirroring: What you do on your screen happens to them.
 
-## Learning Opportunities
-- Understand automation in Roblox  
-- Practice script execution and file management  
-- Learn how to structure small‑scale software projects  
+⌨️ Keybindings & GUI Instructions
 
-## License
-Apache 2.0
+    
+Launch injector.exe: Ensure you have Administrative privileges for memory-read access.
+
+    
+Targeting: Enter the Target Username or Player ID into the command prompt when prompted.
+
+    Execution:
+
+        
+Press L + P to start the Physics Recorder.
+
+        
+Perform the moves you want the target to "mirror."
+
+        
+Press N + P to end recording and commit the packet-injection.
+
+📦 Repository Structure
+
+    1 . /bin/ -> injector.exe
+
+    2 . /lib/ -> global_hook.dll, phys_sync.dat 
+
+    
+README.md
